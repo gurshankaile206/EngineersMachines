@@ -45,3 +45,16 @@ This web app is an application using many to many relationships between engineer
 * Run ``` dotnet database update ``` to implement the database structure
 
 * Run ``` dotnet watch run ``` to open live broswer 
+
+## Future Goals 
+
+* Update UI with styling
+
+## License 
+
+__MIT__ 
+
+## Contact Information 
+
+gurshankaile206@gmail.com
+
