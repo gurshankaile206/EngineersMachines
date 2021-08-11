@@ -1,0 +1,15 @@
+div#footer {
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	color: blue;
+	background:#333;
+	padding:8px;
+}
+
+div.home {
+  max-width: 500px;
+  margin: auto;
+}
+
