@@ -19,6 +19,14 @@ body {
 	animation: gradient 15s ease infinite;
 }
 
+div#link1 {
+    background-color: red;
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
 @keyframes gradient {
 	0% {
 		background-position: 0% 50%;
